@@ -1,5 +1,5 @@
-## 📊 Customer Churn Analysis
-📌 Project Overview
+# 📊 Customer Churn Analysis
+## 📌 Project Overview
 
 Customer churn is one of the most critical challenges for businesses.
 
@@ -10,7 +10,7 @@ and factors that contribute to customer churn.
 The goal is to help businesses improve customer retention and make data-driven decisions.
 
 
-🎯 Objectives
+## 🎯 Objectives
 Analyze customer behavior and identify churn patterns
 
 Discover key factors influencing customer churn
@@ -21,7 +21,7 @@ Generate actionable insights using data analysis techniques
 
 Visualize trends and patterns for better understanding
 
-🛠️ Tools & Technologies Used
+## 🛠️ Tools & Technologies Used
 
 Python (Data Analysis & Processing)
 
@@ -33,7 +33,7 @@ Google Colab Notebook (Development Environment)
 
 
 
-📂 Dataset Description
+## 📂 Dataset Description 
 
 The dataset contains customer-related information such as:
 
@@ -49,7 +49,7 @@ Payment information
 
 Churn status (Yes/No)
 
-🔄 Project Workflow
+## 🔄 Project Workflow
 
 1. Data Collection
 2. 
@@ -91,7 +91,7 @@ Found key features impacting churn
 
 Suggested business improvements
 
-📈 Key Insights
+## 📈 Key Insights
 
 Customers with higher monthly charges are more likely to churn
 
@@ -101,7 +101,7 @@ Customers with short-term subscriptions tend to churn more
 
 Certain services significantly influence customer loyalty
 
-📊 Sample Visualizations
+## 📊 Sample Visualizations
 
 Churn Distribution Chart
 
