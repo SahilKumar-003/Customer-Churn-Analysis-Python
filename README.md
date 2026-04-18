@@ -55,27 +55,27 @@ Churn status (Yes/No)
 
 Imported dataset from CSV file
 
-Loaded into Jupyter Notebook for analysis
+Loaded data into Jupyter Notebook for analysis
 
 2. Data Cleaning
 
 Handled missing values
 
-Removed duplicates
+Removed duplicate records
 
 Converted data types where necessary
 
 3. Exploratory Data Analysis (EDA)
 
-Analyzed customer distribution
+Analyzed overall customer distribution
 
-Identified churn trends
+Identified churn trends and patterns
 
 Compared churn vs non-churn customers
 
 4. Data Visualization
 
-Used charts and graphs to highlight:
+Created charts and graphs to highlight:
 
 Churn rate
 
@@ -87,9 +87,9 @@ Feature relationships
 
 Identified high-risk churn segments
 
-Found key features impacting churn
+Determined key factors impacting churn
 
-Suggested business improvements
+Suggested actionable business improvements
 
 ## 📈 Key Insights
 
