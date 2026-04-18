@@ -37,19 +37,19 @@ Google Colab Notebook (Development Environment)
 
 <a href="https://github.com/SahilKumar-003/Customer-Churn-Analysis-Python/blob/main/Telco-Customer-Churn.csv">Dataset</a>
 
-The dataset contains customer-related information such as:
+- The dataset contains customer-related information such as:
 
-Customer ID
+- Customer ID
 
-Demographics (Gender, Age, etc.)
+- Demographics (Gender, Age, etc.)
 
-Subscription details
+- Subscription details
 
-Service usage
+- Service usage
 
-Payment information
+- Payment information
 
-Churn status (Yes/No)
+- Churn status (Yes/No)
 
 ## 🔄 Project Workflow
 
