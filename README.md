@@ -52,43 +52,28 @@ Churn status (Yes/No)
 ## 🔄 Project Workflow
 
 1. Data Collection
-2. 
 Imported dataset from CSV file
-
 Loaded into Jupyter Notebook for analysis
 
-4. Data Cleaning
-
+2. Data Cleaning
 Handled missing values
-
 Removed duplicates
-
 Converted data types where necessary
 
-5. Exploratory Data Analysis (EDA)
-
+3. Exploratory Data Analysis (EDA)
 Analyzed customer distribution
-
 Identified churn trends
-
 Compared churn vs non-churn customers
 
-7. Data Visualization
-
+4. Data Visualization
 Used charts and graphs to highlight:
-
 Churn rate
-
 Customer segmentation
-
 Feature relationships
 
-8. Insights Generation
-
+5. Insights Generation
 Identified high-risk churn segments
-
 Found key features impacting churn
-
 Suggested business improvements
 
 ## 📈 Key Insights
