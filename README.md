@@ -51,7 +51,6 @@ Google Colab Notebook (Development Environment)
 
 - Churn status (Yes/No)
 
-## 🔄 Project Workflow
 
 ## 🔄 Project Workflow
 
